@@ -1,0 +1,37 @@
+<head>
+<style>
+h1{
+    color:#ff0000;
+    font-size: 65px;
+    font-style: oblique;
+    font-weight: 100;
+    text-decoration: underline;
+    text-align: center;
+    background-color: rgba(255, 0, 0, 0.5);
+    
+    }
+h2{
+    color:#0b720b;
+    text-decoration: underline;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.res{
+    color:red;
+}
+p span{
+    text-decoration: underline;
+    text-decoration-color: royalblue;
+}
+
+#descripcion{
+    text-align: center;
+}
+.tex{
+    font-style: italic;
+}
+
+</style>
+</head>
