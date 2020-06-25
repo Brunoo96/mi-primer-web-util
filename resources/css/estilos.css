@@ -1,5 +1,4 @@
-<head>
-<style>
+
 h1{
     color:#ff0000;
     font-size: 65px;
@@ -29,9 +28,12 @@ p span{
 #descripcion{
     text-align: center;
 }
-.tex{
+.text{
     font-style: italic;
+    line-height: 12px;
+}
+.lis{
+    font-style: inherit;
+    
 }
 
-</style>
-</head>
