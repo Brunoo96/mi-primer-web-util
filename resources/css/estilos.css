@@ -36,4 +36,11 @@ p span{
     font-style: inherit;
     
 }
-
+.titulos{
+    color: #1100ff;
+    text-align: center;
+    background-color: rgba(0, 0, 255, 0.4)  ;
+}
+.imagen{
+    align-items: inherit;
+}
